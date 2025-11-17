@@ -3,14 +3,14 @@
 <img width="1919" height="921" alt="image" src="https://github.com/user-attachments/assets/abf71f65-486d-4fc1-adf5-fb04e6d7a6e0" />
 
 
-Este repositório apresenta o projeto da loja **MP Estilo Kids**, desenvolvida por mim utilizando a plataforma **Nuvemshop**. Embora o site não tenha sido criado diretamente por código, todo o layout, organização, personalização e estrutura da loja foram configurados por mim.
+Este repositório apresenta o projeto da loja **MP Estilo Kids**, desenvolvida por mim utilizando a plataforma **Nuvemshop**. Embora o site não tenha sido totalmente criado por código, todo o layout, organização, personalização e estrutura da loja foram configurados por mim.
 
 🔗 **Acesse a loja online:** https://mpestilokids.com/
 
 ---
 
 ## 📌 Sobre o Projeto
-
+ 
 A MP Estilo Kids é uma loja especializada em moda infantil, e desenvolvi toda a presença digital da marca na Nuvemshop, incluindo:
 
 - Estruturação completa da loja
@@ -27,6 +27,7 @@ A MP Estilo Kids é uma loja especializada em moda infantil, e desenvolvi toda a
 
 - Criação de e-commerces pela plataforma **Nuvemshop**
 - Noções de UX/UI aplicadas ao fluxo de compra
+- Pequenas alterações feitas através de código
 - Organização visual e experiência mobile
 - Personalização de temas e seções
 - Trabalho com identidade visual
