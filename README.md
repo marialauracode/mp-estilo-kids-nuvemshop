@@ -57,6 +57,6 @@ Registrar e demonstrar minha habilidade em criar e gerenciar **e-commerces compl
 
 ## 👩🏻‍💻 Desenvolvedora
 
-**Maria Laura Castro**  
+**Maria Laura Costa**  
 Estudante de ADS – Fatec Taubaté  
 Apaixonada por desenvolvimento web e criação de experiências digitais.
